@@ -1,0 +1,29 @@
+.login{
+    padding: 2rem;
+    color: #36A546;
+    border-radius: 8px;
+}
+.login input{
+    background-color: #1F191966;
+    border-color: #332f2f66;
+    border-radius: 2rem;
+    padding: 1rem;
+    border-top-width: 5px;
+    /* box-shadow: 10px 0px 0px 0px #000; */
+}
+
+.login button{
+    background: linear-gradient( #36A54680, #00FF2580, #000);
+    box-shadow: 0px 10px 0px 0px #000;
+    border-radius: 2rem;
+    padding: 0.9rem;
+    width: 300px;
+    font-size: 20px;
+    border-color: #fff;
+    border-width: 1px;
+    color: #fff;
+    font-weight: 600;
+}
+::placeholder{
+    color: #fff;
+}

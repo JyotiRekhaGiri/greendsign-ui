@@ -1,0 +1,62 @@
+[
+    {
+      "EMP ID": 1,
+      "NAME": "Arjun",
+      "DOB": "16-11-2000",
+      "ROLL": "SOFTWARE ENGINEER"
+    },
+    {
+      "EMP ID": 2,
+      "NAME": "Mahesh",
+      "DOB": "15-01-2000",
+      "ROLL": "WEB DEVELOPER"
+    },
+    {
+      "EMP ID": 3,
+      "NAME": "John",
+      "DOB": "02-05-1995",
+      "ROLL": "DATA ANALYST"
+    },
+    {
+      "EMP ID": 4,
+      "NAME": "Emily",
+      "DOB": "20-09-1998",
+      "ROLL": "UI/UX DESIGNER"
+    },
+    {
+      "EMP ID": 5,
+      "NAME": "Sara",
+      "DOB": "10-03-1992",
+      "ROLL": "PROJECT MANAGER"
+    },
+    {
+      "EMP ID": 6,
+      "NAME": "Ravi",
+      "DOB": "05-07-1989",
+      "ROLL": "SYSTEM ADMINISTRATOR"
+    },
+    {
+      "EMP ID": 7,
+      "NAME": "Priya",
+      "DOB": "12-04-1996",
+      "ROLL": "DATABASE ADMINISTRATOR"
+    },
+    {
+      "EMP ID": 8,
+      "NAME": "Amit",
+      "DOB": "25-08-1990",
+      "ROLL": "NETWORK ENGINEER"
+    },
+    {
+      "EMP ID": 9,
+      "NAME": "Anita",
+      "DOB": "30-06-1993",
+      "ROLL": "SOFTWARE DEVELOPER"
+    },
+    {
+      "EMP ID": 10,
+      "NAME": "Rahul",
+      "DOB": "08-12-1985",
+      "ROLL": "BUSINESS ANALYST"
+    }
+  ]  
