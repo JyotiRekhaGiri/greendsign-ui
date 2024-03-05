@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JyotiRekhaGiri.github.io/greendsign-ui/static/css/main.c262e1e8.css",
+    "main.js": "/JyotiRekhaGiri.github.io/greendsign-ui/static/js/main.222b7b1b.js",
+    "static/media/Group3@2x.png": "/JyotiRekhaGiri.github.io/greendsign-ui/static/media/Group3@2x.dcf2823203c51624cc27.png",
+    "static/media/moptrologo@2x.png": "/JyotiRekhaGiri.github.io/greendsign-ui/static/media/moptrologo@2x.9a9ce5590fb612cc9985.png",
+    "index.html": "/JyotiRekhaGiri.github.io/greendsign-ui/index.html",
+    "main.c262e1e8.css.map": "/JyotiRekhaGiri.github.io/greendsign-ui/static/css/main.c262e1e8.css.map",
+    "main.222b7b1b.js.map": "/JyotiRekhaGiri.github.io/greendsign-ui/static/js/main.222b7b1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c262e1e8.css",
+    "static/js/main.222b7b1b.js"
+  ]
+}
